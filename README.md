@@ -4,9 +4,7 @@ A fun JavaScript-based Lie Detector Game that analyzes a user's typing behavior 
 
 ## 🚀 Live Demo
 
-**Live Link:** https://your-live-demo-link.com
-
-> Replace the above URL with your deployed project link (GitHub Pages, Netlify, Vercel, etc.)
+**Live Link:** https://ratnasingh90999-prog.github.io/lie-detector-project/
 
 ---
 
